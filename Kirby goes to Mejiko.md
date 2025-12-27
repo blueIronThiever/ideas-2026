@@ -18,4 +18,5 @@ En este lugar. Hay calacas, luchadores, Tlatoanis, Tacos, Calmecacs, y toda clas
 ### Kirby piñata.
 Al absorber a un Pixatli, Kirby se concierte en piñata de 5 picos.
 Si Kirby activa éste poder, invita a todos los enemigos de la pantalla a glopearlo. Para finalmente explotar y disparae dulces
-Recibiendo la cantidad de daño propocional a la cantidad de enemigos en pantalla, pero des
+Recibiendo la cantidad de daño propocional a la cantidad de enemigos en pantalla, pero apareciendo una gran cantidad de dulces al explotar.
+Todos los enemigos son derrotados. Los jefes reciben buen daño.
