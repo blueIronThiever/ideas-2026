@@ -4,7 +4,10 @@
 # Kirbo de las estrellas: el juego
 > 👉🏻 Ideas para romhacks de Kirby inspirado en las ilustraciones de Joshua Hdz.
 
-## Progreso de ideas
+<img width="300" height="400" alt="IMG_20261105_145804" src="https://github.com/user-attachments/assets/b21ae10f-a335-4190-aae6-7489585dd2ea" />
+<img width="400" height="300" alt="IMG_20261105_145758" src="https://github.com/user-attachments/assets/e5f1eb2a-c0e4-47ba-8d9f-29e008284927" />
+
+## Roadmap de ideas
 ### Kirbo de las estrellas: Pesadillas en sueñolandia
 Primero experimentar con romhacks que solo agreguen habilidades, puede ser Kirby Nightmare in Dreamland (GBA), o Kirby's Adventure (NES)
 
