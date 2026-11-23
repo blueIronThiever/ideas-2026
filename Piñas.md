@@ -14,7 +14,7 @@ Tras sembrar tu primera piña y cultivar su fruta, desbloqueas un par de herrami
 - Una botella para regarlas
 
 La paleta de colores seria esta:
-![[paleta.png]]
+https://coolors.co/edae49-7aa095-fae8eb-a63d40-151515
 
 ## Cultivo
 
